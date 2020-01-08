@@ -18,7 +18,7 @@
 //= require popper
 //= require bootstrap-sprockets
 
-"use strict";
+/*"use strict";
 
 const bodyTag = document.querySelector('body');
 
@@ -29,4 +29,4 @@ let scrolled = () => {
 
 addEventListener('scroll', () => {
   bodyTag.style.setProperty('background-color', scrolled() > 50 ? "var(--color2)" : "var(--color1)");
-})
+})*/
