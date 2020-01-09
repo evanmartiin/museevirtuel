@@ -17,16 +17,3 @@
 //= require jquery3
 //= require popper
 //= require bootstrap-sprockets
-
-/*"use strict";
-
-const bodyTag = document.querySelector('body');
-
-let scrolled = () => {
-  let dec = scrollY / (bodyTag.scrollHeight - innerHeight);
-  return Math.floor(dec * 100);
-}
-
-addEventListener('scroll', () => {
-  bodyTag.style.setProperty('background-color', scrolled() > 50 ? "var(--color2)" : "var(--color1)");
-})*/
